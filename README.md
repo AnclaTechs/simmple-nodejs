@@ -1,2 +1,2 @@
-# simmple-nodejs
-Simmple (Node.js): Open-source log and performance monitoring. Your all-in-one Sentry and Papertrail alternative.
+### Simmple (NodeJs)
+Open-source log and performance monitoring. Your Node.js apps deserve the best. Performance monitoring that brings together Sentry and Papertrail's capabilities.
