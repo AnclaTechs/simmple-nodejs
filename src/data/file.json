@@ -1,0 +1,16 @@
+[
+  {},
+  {
+    "_id": "800855ab-6caf-4cd0-b36d-0ee330d7465c",
+    "method": "GET",
+    "original_url": "/api/v1/about",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+    "raw_header": "Host",
+    "startTime": "2024-09-04T05:22:32.416Z",
+    "end_time": "2024-09-04T05:22:32.438Z",
+    "duration": "0.022secs",
+    "status_code": 404,
+    "status_message": "Connection closed before response was finished",
+    "event": "close"
+  }
+]
